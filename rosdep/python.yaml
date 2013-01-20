@@ -201,12 +201,14 @@ python-qt-bindings-gl:
   ubuntu: python-qt4-gl
 python-qt-bindings-qwt5:
   ubuntu: python-qwt5-qt4
+  debian: python-qwt5-qt4
 python-qt4-gl:
   ubuntu: 
     apt: 
       packages: [python-qt4-gl]
 python-qwt5-qt4:
   ubuntu: python-qwt5-qt4
+  debian: python-qwt5-qt4
 python-rdflib:
   ubuntu: python-rdflib
 python-redis:
